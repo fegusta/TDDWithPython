@@ -47,3 +47,72 @@ JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERR
 
 ###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1641518204957	geckodriver	INFO	Listening on 127.0.0.1:61834
+1641518207972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofilei7nkSe"
+1641518208273	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofilei7nkSe\\search.json.mozlz4", (void 0)))
+1641518210138	Marionette	INFO	Listening on port 61842
+1641518210636	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1641518212005	Marionette	INFO	Stopped listening on port 61842
+1641518212645	geckodriver	INFO	Listening on 127.0.0.1:61879
+1641518215660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofileBROIZl"
+1641518215916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofileBROIZl\\search.json.mozlz4", (void 0)))
+1641518217725	Marionette	INFO	Listening on port 61887
+1641518217822	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641518218011	Marionette	INFO	Stopped listening on port 61887
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1641518218733	geckodriver	INFO	Listening on 127.0.0.1:61915
+1641518221743	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofileGY4QIf"
+1641518222037	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofileGY4QIf\\search.json.mozlz4", (void 0)))
+1641518223935	Marionette	INFO	Listening on port 61923
+1641518224412	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1641518225068	Marionette	INFO	Stopped listening on port 61923
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1641518225768	geckodriver	INFO	Listening on 127.0.0.1:61954
+1641518228787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofileI2v4Ul"
+1641518229048	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofileI2v4Ul\\search.json.mozlz4", (void 0)))
+1641518230859	Marionette	INFO	Listening on port 61962
+1641518231399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+JavaScript error: resource://gre/modules/LoginManagerChild.jsm, line 194: NS_ERROR_XPC_JAVASCRIPT_ERROR_WITH_DETAILS: [JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]'[JavaScript Error: "Invalid autocomplete selectedIndex" {file: "resource://gre/actors/AutoCompleteChild.jsm" line: 125}]' when calling method: [nsIAutoCompletePopup::selectedIndex]
+1641518232065	Marionette	INFO	Stopped listening on port 61962
+1641518327074	geckodriver	INFO	Listening on 127.0.0.1:62015
+1641518330128	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofilePXYHJC"
+1641518330388	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofilePXYHJC\\search.json.mozlz4", (void 0)))
+1641518332206	Marionette	INFO	Listening on port 62023
+1641518332294	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641518332399	Marionette	INFO	Stopped listening on port 62023
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1641518333176	geckodriver	INFO	Listening on 127.0.0.1:62046
+1641518336191	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofile6kNrUv"
+1641518336442	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofile6kNrUv\\search.json.mozlz4", (void 0)))
+1641518338210	Marionette	INFO	Listening on port 62054
+1641518338246	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641518338360	Marionette	INFO	Stopped listening on port 62054
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+1641518339626	geckodriver	INFO	Listening on 127.0.0.1:62075
+1641518342662	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofileOv4Z5f"
+1641518342916	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\fegtn\\AppData\\Local\\Temp\\Mxt215\\tmp\\rust_mozprofileOv4Z5f\\search.json.mozlz4", (void 0)))
+1641518344701	Marionette	INFO	Listening on port 62083
+1641518344728	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1641518344891	Marionette	INFO	Stopped listening on port 62083
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
